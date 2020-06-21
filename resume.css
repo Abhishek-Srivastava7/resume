@@ -1,0 +1,28 @@
+.head
+{
+  font-size: 20px;
+  text-decoration: underline;
+  margin-left: 25px;
+}
+
+.content
+{
+  font-size: 18px;
+  margin-left: 35px;
+
+}
+
+.top_head
+{
+  font-size: 20px;
+}
+
+.inner-table
+{
+  padding-right: 50px;
+}
+
+.intro
+{
+  padding-right: 5px;
+}
